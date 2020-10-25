@@ -134,7 +134,7 @@
             <section class="pt-page" data-id="resume">
               <div class="section-inner custom-page-content">
                 <div class="page-header color-1">
-                  <h2>Resume</h2>
+                  <h2>Özgeçmişim</h2>
                 </div>
                 <div class="page-content">
 
@@ -142,34 +142,27 @@
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="block">
                         <div class="block-title">
-                          <h3>Education</h3>
+                          <h3>Eğitim</h3>
                         </div>
 
                         <div class="timeline">
-                          <!-- Education 1 -->
-                          <div class="timeline-item">
-                            <h4 class="item-title">Specialization Course</h4>
-                            <span class="item-period">2010</span>
-                            <span class="item-small">Apple Inc.</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
-                          </div>
-                          <!-- / Education 1 -->
+
 
                           <!-- Education 2 -->
                           <div class="timeline-item">
-                            <h4 class="item-title">Specialization Course</h4>
-                            <span class="item-period">2010</span>
-                            <span class="item-small">Apple Inc.</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                            <h4 class="item-title">Lisans Derecesi, Bilgisayar Programlama</h4>
+                            <span class="item-period">2020 - 2022(devam ediyor)</span>
+                            <span class="item-small">Yalova Üniversitesi</span>
+                            <p class="item-description">Yalova Üniversitesi Github sayfasını oluşturdum ve burada öğrencilerin üniversite adına proje geliştirebilecekleri bir topluluk hazırladım.</p>
                           </div>
                           <!-- / Education 2 -->
 
                           <!-- Education 3 -->
                           <div class="timeline-item">
-                            <h4 class="item-title">Specialization Course</h4>
-                            <span class="item-period">2010</span>
-                            <span class="item-small">Apple Inc.</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                            <h4 class="item-title">Lise Öğrencisi</h4>
+                            <span class="item-period">2016 - 2020</span>
+                            <span class="item-small">Aksa Mesleki Ve Teknik Anadolu Lisesi</span>
+                            <p class="item-description">77.8 ortalama ile "Veritabanı Programcılığı" bölümünü bitirdim.</p>
                           </div>
                           <!-- / Education 3 -->
                         </div>
@@ -179,34 +172,27 @@
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="block">
                         <div class="block-title">
-                          <h3>Experience</h3>
+                          <h3>Deneyim</h3>
                         </div>
 
                         <div class="timeline">
-                          <!-- Experience 1 -->
-                          <div class="timeline-item">
-                            <h4 class="item-title">Frontend-developer</h4>
-                            <span class="item-period">Dec 2012 - Current</span>
-                            <span class="item-small">Web Agency</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
-                          </div>
-                          <!-- / Experience 1 -->
+
 
                           <!-- Experience 2 -->
                           <div class="timeline-item">
-                            <h4 class="item-title">Web Designer</h4>
-                            <span class="item-period">Dec 2011 - Nov 2012</span>
-                            <span class="item-small">Apple Inc.</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                            <h4 class="item-title">Back End Developer</h4>
+                            <span class="item-period">Nisan 2020 - Ekim 2020</span>
+                            <span class="item-small">TILANCE</span>
+                            <p class="item-description">REST API ve RESTful hakkında deneyim geliştirdim. NodeJS üzerinde yeni kütüphaneler ve geliştirme araçları kullandım.</p>
                           </div>
                           <!-- / Experience 2 -->
 
                           <!-- Experience 3 -->
                           <div class="timeline-item">
-                            <h4 class="item-title">Graphic Designer</h4>
-                            <span class="item-period">Jan 2010 - Dec 2011</span>
-                            <span class="item-small">Apple Inc.</span>
-                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
+                            <h4 class="item-title">Sistem Destek Stajyeri</h4>
+                            <span class="item-period">Eylül 2019 - Nisan 2020</span>
+                            <span class="item-small">Aktek Bilgi Iletisim Teknolojisi Sanayi A.S.</span>
+                            <p class="item-description">Sistem Destek Stajerliğimi Tamamladım. Fabrika ortamı, otomasyonlarını, işleyişlerini ve kullanıcı odaklı çözüm sunmayı deneyimledim</p>
                           </div>
                           <!-- / Experience 3 -->
                         </div>
@@ -218,24 +204,21 @@
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="block">
                         <div class="block-title">
-                          <h3>Design <span>Skills</span></h3>
+                          <h3>Tasarım <span>Yteneklerim</span></h3>
                         </div>
 
                         <div class="skills-info">
-                          <h4>Web Design</h4>
+                          <h4>Web Tasarım</h4>
                           <div class="skill-container">
                             <div class="skill-percentage skill-1"></div>
                           </div>
 
-                          <h4>Graphic Design</h4>
+                          <h4>Grafik Tasarım</h4>
                           <div class="skill-container">
                             <div class="skill-percentage skill-2"></div>
                           </div>
 
-                          <h4>Print Design</h4>
-                          <div class="skill-container">
-                            <div class="skill-percentage skill-3"></div>
-                          </div>
+
                         </div>
 
                       </div>
@@ -244,21 +227,21 @@
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="block">
                         <div class="block-title">
-                          <h3>Coding <span>Skills</span></h3>
+                          <h3>Yazılım <span>Yetenekleri</span></h3>
                         </div>
 
                         <div class="skills-info">
-                          <h4>HTML5</h4>
+                          <h4>PHP</h4>
                           <div class="skill-container">
                             <div class="skill-percentage skill-4"></div>
                           </div>
 
-                          <h4>CSS3/LESS/SASS</h4>
+                          <h4>HTML/CSS3</h4>
                           <div class="skill-container">
-                            <div class="skill-percentage skill-5"></div>
+                            <div class="skill-percentage skill-4"></div>
                           </div>
 
-                          <h4>jQuery</h4>
+                          <h4>C# / OYUN GELİŞTİRME</h4>
                           <div class="skill-container">
                             <div class="skill-percentage skill-6"></div>
                           </div>
@@ -273,7 +256,7 @@
                     <div class="col-sm-12 col-md-12 col-lg-12">
                       <div class="block">
                         <div class="center download-resume">
-                          <a href="#" class="btn btn-secondary">Download Resume</a>
+                          <a href="#" class="btn btn-secondary">CV Indir</a>
                         </div>
                       </div>
                     </div>
