@@ -12,20 +12,16 @@
           <a class="pt-trigger" href="#home" data-animation="62">Anasayfa</a><!-- href value = data-id without # of .pt-page. -->
         </li>
         <li>
-          <a class="pt-trigger" href="#resume" data-animation="62">Hakkımda</a>
+          <a class="pt-trigger" href="#resume" data-animation="62">Özgeçmişim</a>
         </li>
         <li>
-          <a class="pt-trigger" href="#services" data-animation="62">Ürünler</a>
+          <a class="pt-trigger" href="#services" data-animation="62">Hizmetler</a>
         </li>
         <li>
           <a class="pt-trigger" href="#portfolio" data-animation="62">Portfolio</a>
         </li>
-        <li>
-          <a class="pt-trigger" href="#blog" data-animation="62">Blog</a>
-        </li>
-        <li>
-          <a class="pt-trigger" href="#contact" data-animation="62">İletişim</a>
-        </li>
+    
+
       </ul>
       <!-- /Main menu -->
     </div>
